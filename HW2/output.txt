@@ -1,0 +1,510 @@
+               100  manages  men  mentally  ...  bad  movie  just  Total
+bradso           0        0    0         0  ...    0      1     0     36
+kathryn lewis    0        0    0         0  ...    0      0     3     40
+Lily Hovart      0        0    0         0  ...    4      2     5     40
+mattheweg        0        0    1         0  ...    1      0     3     67
+veronica         0        0    0         0  ...    0      2     0     33
+wackjells        1        1    0         1  ...    1      5     1    106
+bradso           0        0    0         0  ...    0      1     0     36
+kathryn lewis    0        0    0         0  ...    0      0     3     40
+Lily Hovart      0        0    0         0  ...    4      2     5     40
+mattheweg        0        0    1         0  ...    1      0     3     67
+veronica         0        0    0         0  ...    0      2     0     33
+wackjells        1        1    0         1  ...    1      5     1    106
+Total            2        2    2         2  ...   12     20    24    644
+
+[13 rows x 244 columns]
+               100  manages  men  mentally  middle  mind  minute  minutes  \
+bradso           0        0    0         0       0     0       0        1   
+kathryn lewis    0        0    0         0       0     0       1        0   
+Lily Hovart      0        0    0         0       0     0       0        0   
+mattheweg        0        0    1         0       0     0       0        0   
+veronica         0        0    0         0       0     0       0        0   
+wackjells        1        1    0         1       1     1       0        0   
+bradso           0        0    0         0       0     0       0        1   
+kathryn lewis    0        0    0         0       0     0       1        0   
+Lily Hovart      0        0    0         0       0     0       0        0   
+mattheweg        0        0    1         0       0     0       0        0   
+veronica         0        0    0         0       0     0       0        0   
+wackjells        1        1    0         1       1     1       0        0   
+Total            2        2    2         2       2     2       2        2   
+
+               mix  moments  motion  mad  multiple  numbers  obviously  oh  \
+bradso           0        0       1    0         1        0          0   0   
+kathryn lewis    0        0       0    0         0        0          0   0   
+Lily Hovart      0        1       0    0         0        0          0   1   
+mattheweg        1        0       0    1         0        0          1   0   
+veronica         0        0       0    0         0        0          0   0   
+wackjells        0        0       0    0         0        1          0   0   
+bradso           0        0       1    0         1        0          0   0   
+kathryn lewis    0        0       0    0         0        0          0   0   
+Lily Hovart      0        1       0    0         0        0          0   1   
+mattheweg        1        0       0    1         0        0          1   0   
+veronica         0        0       0    0         0        0          0   0   
+wackjells        0        0       0    0         0        1          0   0   
+Total            2        2       2    2         2        2          2   2   
+
+               original  paced  paint  person  pete  pictures  points  \
+bradso                0      0      0       0     0         1       0   
+kathryn lewis         0      0      0       0     0         0       1   
+Lily Hovart           0      1      0       0     0         0       0   
+mattheweg             0      0      0       1     1         0       0   
+veronica              1      0      0       0     0         0       0   
+wackjells             0      0      1       0     0         0       0   
+bradso                0      0      0       0     0         1       0   
+kathryn lewis         0      0      0       0     0         0       1   
+Lily Hovart           0      1      0       0     0         0       0   
+mattheweg             0      0      0       1     1         0       0   
+veronica              1      0      0       0     0         0       0   
+wackjells             0      0      1       0     0         0       0   
+Total                 2      2      2       2     2         2       2   
+
+               nonsense  loved  love  loudly  happens  hardly  having  high  \
+bradso                1      0     0       0        0       0       0     0   
+kathryn lewis         0      0     0       0        0       0       0     0   
+Lily Hovart           0      0     0       0        0       1       0     0   
+mattheweg             0      1     0       0        0       0       1     0   
+veronica              0      0     0       1        0       0       0     1   
+wackjells             0      0     1       0        1       0       0     0   
+bradso                1      0     0       0        0       0       0     0   
+kathryn lewis         0      0     0       0        0       0       0     0   
+Lily Hovart           0      0     0       0        0       1       0     0   
+mattheweg             0      1     0       0        0       0       1     0   
+veronica              0      0     0       1        0       0       0     1   
+wackjells             0      0     1       0        1       0       0     0   
+Total                 2      2     2       2        2       2       2     2   
+
+               hilariously  home  hot  house  huge  hypnotized  zero  kenneth  \
+bradso                   0     0    0      0     0           0     1        0   
+kathryn lewis            0     0    0      0     0           0     0        0   
+Lily Hovart              0     0    0      0     0           0     0        0   
+mattheweg                0     0    0      0     1           1     0        0   
+veronica                 0     0    1      0     0           0     0        1   
+wackjells                1     1    0      1     0           0     0        0   
+bradso                   0     0    0      0     0           0     1        0   
+kathryn lewis            0     0    0      0     0           0     0        0   
+Lily Hovart              0     0    0      0     0           0     0        0   
+mattheweg                0     0    0      0     1           1     0        0   
+veronica                 0     0    1      0     0           0     0        1   
+wackjells                1     1    0      1     0           0     0        0   
+Total                    2     2    2      2     2           2     2        2   
+
+               kinds  lake  laughed  laughing  leads  legitimately  life  \
+bradso             0     0        0         0      1             1     1   
+kathryn lewis      0     0        0         0      0             0     0   
+Lily Hovart        0     0        1         0      0             0     0   
+mattheweg          1     0        0         0      0             0     0   
+veronica           0     0        0         0      0             0     0   
+wackjells          0     1        0         1      0             0     0   
+bradso             0     0        0         0      1             1     1   
+kathryn lewis      0     0        0         0      0             0     0   
+Lily Hovart        0     0        1         0      0             0     0   
+mattheweg          1     0        0         0      0             0     0   
+veronica           0     0        0         0      0             0     0   
+wackjells          0     1        0         1      0             0     0   
+Total              2     2        2         2      2             2     2   
+
+               literally  lives  long  longest  polite  premise  putting  ran  \
+bradso                 0      0     0        1       0        0        0    0   
+kathryn lewis          0      0     1        0       0        0        0    0   
+Lily Hovart            0      0     0        0       0        0        0    0   
+mattheweg              0      1     0        0       1        0        0    0   
+veronica               1      0     0        0       0        0        0    0   
+wackjells              0      0     0        0       0        1        1    1   
+bradso                 0      0     0        1       0        0        0    0   
+kathryn lewis          0      0     1        0       0        0        0    0   
+Lily Hovart            0      0     0        0       0        0        0    0   
+mattheweg              0      1     0        0       1        0        0    0   
+veronica               1      0     0        0       0        0        0    0   
+wackjells              0      0     0        0       0        1        1    1   
+Total                  2      2     2        2       2        2        2    2   
+
+               taking  talk  team  terrible  thank  think  throwaway  title  \
+bradso              0     0     0         0      0      0          0      0   
+kathryn lewis       0     0     1         0      0      0          0      1   
+Lily Hovart         0     0     0         0      0      0          0      0   
+mattheweg           0     1     0         0      0      1          1      0   
+veronica            0     0     0         0      0      0          0      0   
+wackjells           1     0     0         1      1      0          0      0   
+bradso              0     0     0         0      0      0          0      0   
+kathryn lewis       0     0     1         0      0      0          0      1   
+Lily Hovart         0     0     0         0      0      0          0      0   
+mattheweg           0     1     0         0      0      1          1      0   
+veronica            0     0     0         0      0      0          0      0   
+wackjells           1     0     0         1      1      0          0      0   
+Total               2     2     2         2      2      2          2      2   
+
+               true  truly  unbearably  unbelievably  ve  wait  watch  \
+bradso            0      0           0             0   0     0      0   
+kathryn lewis     0      0           0             0   0     0      0   
+Lily Hovart       0      0           1             0   0     0      0   
+mattheweg         0      1           0             0   0     0      1   
+veronica          0      0           0             0   0     0      0   
+wackjells         1      0           0             1   1     1      0   
+bradso            0      0           0             0   0     0      0   
+kathryn lewis     0      0           0             0   0     0      0   
+Lily Hovart       0      0           1             0   0     0      0   
+mattheweg         0      1           0             0   0     0      1   
+veronica          0      0           0             0   0     0      0   
+wackjells         1      0           0             1   1     1      0   
+Total             2      2           2             2   2     2      2   
+
+               watchable  watching  wearing  went  woke  word  work  worst  \
+bradso                 0         0        0     0     0     0     0      1   
+kathryn lewis          0         0        0     0     1     0     0      0   
+Lily Hovart            0         0        0     0     0     0     0      0   
+mattheweg              0         1        0     0     0     0     1      0   
+veronica               0         0        0     0     0     0     0      0   
+wackjells              1         0        1     1     0     1     0      0   
+bradso                 0         0        0     0     0     0     0      1   
+kathryn lewis          0         0        0     0     1     0     0      0   
+Lily Hovart            0         0        0     0     0     0     0      0   
+mattheweg              0         1        0     0     0     0     1      0   
+veronica               0         0        0     0     0     0     0      0   
+wackjells              1         0        1     1     0     1     0      0   
+Total                  2         2        2     2     2     2     2      2   
+
+               tacky  happened  sure  sucked  reason  recent  released  \
+bradso             0         0     0       0       1       1         0   
+kathryn lewis      0         1     1       0       0       0         0   
+Lily Hovart        0         0     0       1       0       0         1   
+mattheweg          0         0     0       0       0       0         0   
+veronica           1         0     0       0       0       0         0   
+wackjells          0         0     0       0       0       0         0   
+bradso             0         0     0       0       1       1         0   
+kathryn lewis      0         1     1       0       0       0         0   
+Lily Hovart        0         0     0       1       0       0         1   
+mattheweg          0         0     0       0       0       0         0   
+veronica           1         0     0       0       0       0         0   
+wackjells          0         0     0       0       0       0         0   
+Total              2         2     2       2       2       2         2   
+
+               resolved  rolled  romantic  roughly  say  scene  script  \
+bradso                0       0         0        1    0      0       1   
+kathryn lewis         0       1         0        0    0      0       0   
+Lily Hovart           0       0         0        0    0      0       0   
+mattheweg             0       0         0        0    0      0       0   
+veronica              0       0         0        0    0      1       0   
+wackjells             1       0         1        0    1      0       0   
+bradso                0       0         0        1    0      0       1   
+kathryn lewis         0       1         0        0    0      0       0   
+Lily Hovart           0       0         0        0    0      0       0   
+mattheweg             0       0         0        0    0      0       0   
+veronica              0       0         0        0    0      1       0   
+wackjells             1       0         1        0    1      0       0   
+Total                 2       2         2        2    2      2       2   
+
+               seriously  sets  severe  sexist  shit  silence  sort  soulless  \
+bradso                 0     1       0       0     0        0     0         0   
+kathryn lewis          1     0       1       0     0        0     0         0   
+Lily Hovart            0     0       0       0     0        1     0         0   
+mattheweg              0     0       0       0     1        0     1         0   
+veronica               0     0       0       0     0        0     0         1   
+wackjells              0     0       0       1     0        0     0         0   
+bradso                 0     1       0       0     0        0     0         0   
+kathryn lewis          1     0       1       0     0        0     0         0   
+Lily Hovart            0     0       0       0     0        1     0         0   
+mattheweg              0     0       0       0     1        0     1         0   
+veronica               0     0       0       0     0        0     0         1   
+wackjells              0     0       0       1     0        0     0         0   
+Total                  2     2       2       2     2        2     2         2   
+
+               sounds  strangely  studies  stupidity  subplot  suit  half  \
+bradso              0          0        0          0        0     0     1   
+kathryn lewis       0          0        0          0        0     0     0   
+Lily Hovart         0          0        0          0        0     0     0   
+mattheweg           1          1        0          0        0     0     0   
+veronica            0          0        0          0        0     0     0   
+wackjells           0          0        1          1        1     1     0   
+bradso              0          0        0          0        0     0     1   
+kathryn lewis       0          0        0          0        0     0     0   
+Lily Hovart         0          0        0          0        0     0     0   
+mattheweg           1          1        0          0        0     0     0   
+veronica            0          0        0          0        0     0     0   
+wackjells           0          0        1          1        1     1     0   
+Total               2          2        2          2        2     2     2   
+
+               jesus  great  cop  ass  guy  costumes  couple  armour  course  \
+bradso             0      0    0    0    0         0       0       0       0   
+kathryn lewis      0      0    0    0    0         0       0       0       0   
+Lily Hovart        0      0    0    0    0         0       1       0       0   
+mattheweg          0      0    0    0    1         1       0       0       1   
+veronica           0      0    0    0    0         0       0       0       0   
+wackjells          1      1    1    1    0         0       0       1       0   
+bradso             0      0    0    0    0         0       0       0       0   
+kathryn lewis      0      0    0    0    0         0       0       0       0   
+Lily Hovart        0      0    0    0    0         0       1       0       0   
+mattheweg          0      0    0    0    1         1       0       0       1   
+veronica           0      0    0    0    0         0       0       0       0   
+wackjells          1      1    1    1    0         0       0       1       0   
+Total              2      2    2    2    2         2       2       2       2   
+
+               crappy  crazy  convince  appealing  daughter  decent  decide  \
+bradso              0      0         0          0         0       0       0   
+kathryn lewis       0      0         0          0         0       0       1   
+Lily Hovart         0      0         0          0         0       0       0   
+mattheweg           1      0         0          1         0       0       0   
+veronica            0      0         0          0         0       1       0   
+wackjells           0      1         1          0         1       0       0   
+bradso              0      0         0          0         0       0       0   
+kathryn lewis       0      0         0          0         0       0       1   
+Lily Hovart         0      0         0          0         0       0       0   
+mattheweg           1      0         0          1         0       0       0   
+veronica            0      0         0          0         0       1       0   
+wackjells           0      1         1          0         1       0       0   
+Total               2      2         2          2         2       2       2   
+
+               deep  demands  deranged  dialogue  dice  background  crone  \
+bradso            0        0         0         0     0           0      0   
+kathryn lewis     0        0         0         0     1           0      0   
+Lily Hovart       0        0         0         1     0           0      0   
+mattheweg         1        0         0         0     0           0      0   
+veronica          0        1         0         0     0           0      0   
+wackjells         0        0         1         0     0           1      1   
+bradso            0        0         0         0     0           0      0   
+kathryn lewis     0        0         0         0     1           0      0   
+Lily Hovart       0        0         0         1     0           0      0   
+mattheweg         1        0         0         0     0           0      0   
+veronica          0        1         0         0     0           0      0   
+wackjells         0        0         1         0     0           1      1   
+Total             2        2         2         2     2           2      2   
+
+               conflicts  comedy  classic  blandly  boring  boyfriend  boys  \
+bradso                 1       0        0        1       0          0     0   
+kathryn lewis          0       0        0        0       0          0     0   
+Lily Hovart            0       0        0        0       0          0     0   
+mattheweg              0       0        0        0       0          0     0   
+veronica               0       0        0        0       1          0     0   
+wackjells              0       1        1        0       0          1     1   
+bradso                 1       0        0        1       0          0     0   
+kathryn lewis          0       0        0        0       0          0     0   
+Lily Hovart            0       0        0        0       0          0     0   
+mattheweg              0       0        0        0       0          0     0   
+veronica               0       0        0        0       1          0     0   
+wackjells              0       1        1        0       0          1     1   
+Total                  2       2        2        2       2          2     2   
+
+               branagh  brendan  bringing  brought  bunch  came  car  certain  \
+bradso               0        0         0        0      0     0    0        0   
+kathryn lewis        0        0         0        0      1     1    1        0   
+Lily Hovart          0        0         0        0      0     0    0        0   
+mattheweg            0        1         0        0      0     0    0        1   
+veronica             1        0         0        0      0     0    0        0   
+wackjells            0        0         1        1      0     0    0        0   
+bradso               0        0         0        0      0     0    0        0   
+kathryn lewis        0        0         0        0      1     1    1        0   
+Lily Hovart          0        0         0        0      0     0    0        0   
+mattheweg            0        1         0        0      0     0    0        1   
+veronica             1        0         0        0      0     0    0        0   
+wackjells            0        0         1        1      0     0    0        0   
+Total                2        2         2        2      2     2    2        2   
+
+               challenges  character  awesome  chemistry  away  chocolate  \
+bradso                  1          0        0          1     0          0   
+kathryn lewis           0          0        0          0     0          0   
+Lily Hovart             0          0        0          0     0          0   
+mattheweg               0          0        0          0     0          0   
+veronica                0          0        0          0     0          1   
+wackjells               0          1        1          0     1          0   
+bradso                  1          0        0          1     0          0   
+kathryn lewis           0          0        0          0     0          0   
+Lily Hovart             0          0        0          0     0          0   
+mattheweg               0          0        0          0     0          0   
+veronica                0          0        0          0     0          1   
+wackjells               0          1        1          0     1          0   
+Total                   2          2        2          2     2          2   
+
+               christ  atrocious  circles  directed  anymore  diner  \
+bradso              0          0        0         1        0      0   
+kathryn lewis       0          0        0         0        0      0   
+Lily Hovart         0          0        0         0        0      0   
+mattheweg           0          0        1         0        1      0   
+veronica            0          0        0         0        0      1   
+wackjells           1          1        0         0        0      0   
+bradso              0          0        0         1        0      0   
+kathryn lewis       0          0        0         0        0      0   
+Lily Hovart         0          0        0         0        0      0   
+mattheweg           0          0        1         0        1      0   
+veronica            0          0        0         0        0      1   
+wackjells           1          1        0         0        0      0   
+Total               2          2        2         2        2      2   
+
+               directing  angel  fame  feel  female  fever  absolutely  film  \
+bradso                 0      0     0     0       0      0           0     0   
+kathryn lewis          0      1     0     1       0      1           0     0   
+Lily Hovart            0      0     0     0       0      0           1     1   
+mattheweg              1      0     1     0       0      0           0     0   
+veronica               0      0     0     0       0      0           0     0   
+wackjells              0      0     0     0       1      0           0     0   
+bradso                 0      0     0     0       0      0           0     0   
+kathryn lewis          0      1     0     1       0      1           0     0   
+Lily Hovart            0      0     0     0       0      0           1     1   
+mattheweg              1      0     1     0       0      0           0     0   
+veronica               0      0     0     0       0      0           0     0   
+wackjells              0      0     0     0       1      0           0     0   
+Total                  2      2     2     2       2      2           2     2   
+
+               flavor  abrasively  extremely  forced  fraser  frozen  funny  \
+bradso              0           0          0       0       0       0      0   
+kathryn lewis       0           0          0       0       0       0      0   
+Lily Hovart         1           0          0       0       0       0      1   
+mattheweg           0           0          0       1       1       0      0   
+veronica            0           1          0       0       0       0      0   
+wackjells           0           0          1       0       0       1      0   
+bradso              0           0          0       0       0       0      0   
+kathryn lewis       0           0          0       0       0       0      0   
+Lily Hovart         1           0          0       0       0       0      1   
+mattheweg           0           0          0       1       1       0      0   
+veronica            0           1          0       0       0       0      0   
+wackjells           0           0          1       0       0       1      0   
+Total               2           2          2       2       2       2      2   
+
+               garbage  genre  glow  going  gone  gotta  abandoned  absurdity  \
+bradso               0      0     0      0     0      0          1          0   
+kathryn lewis        0      0     0      0     0      0          0          0   
+Lily Hovart          0      0     0      0     0      0          0          1   
+mattheweg            1      1     1      0     1      0          0          0   
+veronica             0      0     0      1     0      0          0          0   
+wackjells            0      0     0      0     0      1          0          0   
+bradso               0      0     0      0     0      0          1          0   
+kathryn lewis        0      0     0      0     0      0          0          0   
+Lily Hovart          0      0     0      0     0      0          0          1   
+mattheweg            1      1     1      0     1      0          0          0   
+veronica             0      0     0      1     0      0          0          0   
+wackjells            0      0     0      0     0      1          0          0   
+Total                2      2     2      2     2      2          2          2   
+
+               batshit  almighty  drinks  drive  dozen  driving  dry  \
+bradso               0         0       0      0      1        0    0   
+kathryn lewis        0         0       0      1      0        1    0   
+Lily Hovart          0         0       0      0      0        0    1   
+mattheweg            0         0       0      0      0        0    0   
+veronica             0         0       1      0      0        0    0   
+wackjells            1         1       0      0      0        0    0   
+bradso               0         0       0      0      1        0    0   
+kathryn lewis        0         0       0      1      0        1    0   
+Lily Hovart          0         0       0      0      0        0    1   
+mattheweg            0         0       0      0      0        0    0   
+veronica             0         0       1      0      0        0    0   
+wackjells            1         1       0      0      0        0    0   
+Total                2         2       2      2      2        2    2   
+
+               experience  actual  doing  dream  amnesia  effort  enamored  \
+bradso                  0       0      0      0        0       0         0   
+kathryn lewis           1       1      0      1        1       0         0   
+Lily Hovart             0       0      0      0        0       0         0   
+mattheweg               0       0      1      0        0       0         0   
+veronica                0       0      0      0        0       0         0   
+wackjells               0       0      0      0        0       1         1   
+bradso                  0       0      0      0        0       0         0   
+kathryn lewis           1       1      0      1        1       0         0   
+Lily Hovart             0       0      0      0        0       0         0   
+mattheweg               0       0      1      0        0       0         0   
+veronica                0       0      0      0        0       0         0   
+wackjells               0       0      0      0        0       1         1   
+Total                   2       2      2      2        2       2         2   
+
+               end  enjoyable  essentially  exist  expectations  acted  \
+bradso           0          0            0      0             0      1   
+kathryn lewis    0          0            0      0             0      0   
+Lily Hovart      0          1            0      0             0      0   
+mattheweg        1          0            0      0             0      0   
+veronica         0          0            0      0             1      0   
+wackjells        0          0            1      1             0      0   
+bradso           0          0            0      0             0      1   
+kathryn lewis    0          0            0      0             0      0   
+Lily Hovart      0          1            0      0             0      0   
+mattheweg        1          0            0      0             0      0   
+veronica         0          0            0      0             1      0   
+wackjells        0          0            1      1             0      0   
+Total            2          2            2      2             2      2   
+
+               dumbest  dreadful  wrong  times  writing  90  awful  acting  \
+bradso               0         0      0      0        0   1      0       0   
+kathryn lewis        0         0      0      0        1   1      0       0   
+Lily Hovart          0         0      0      1        0   0      1       1   
+mattheweg            0         1      0      0        1   0      1       1   
+veronica             0         0      0      0        0   0      0       0   
+wackjells            1         0      2      1        0   0      0       0   
+bradso               0         0      0      0        0   1      0       0   
+kathryn lewis        0         0      0      0        1   1      0       0   
+Lily Hovart          0         0      0      1        0   0      1       1   
+mattheweg            0         1      0      0        1   0      1       1   
+veronica             0         0      0      0        0   0      0       0   
+wackjells            1         0      2      1        0   0      0       0   
+Total                2         2      4      4        4   4      4       4   
+
+               things  tells  time  real  pretty  getting  make  makes  man  \
+bradso              0      0     0     0       0        0     1      0    0   
+kathryn lewis       0      0     1     0       1        1     0      0    0   
+Lily Hovart         0      0     0     1       0        0     0      0    0   
+mattheweg           1      0     0     1       1        1     0      0    1   
+veronica            0      0     0     0       0        0     1      0    0   
+wackjells           1      2     1     0       0        0     0      2    1   
+bradso              0      0     0     0       0        0     1      0    0   
+kathryn lewis       0      0     1     0       1        1     0      0    0   
+Lily Hovart         0      0     0     1       0        0     0      0    0   
+mattheweg           1      0     0     1       1        1     0      0    1   
+veronica            0      0     0     0       0        0     1      0    0   
+wackjells           1      2     1     0       0        0     0      2    1   
+Total               4      4     4     4       4        4     4      4    4   
+
+               doesn  basically  got  interesting  let  really  knight  right  \
+bradso             0          1    0            0    0       0       0      0   
+kathryn lewis      0          0    0            0    1       0       1      0   
+Lily Hovart        0          0    0            0    0       2       0      0   
+mattheweg          1          0    0            1    0       0       0      0   
+veronica           0          1    0            1    0       0       1      0   
+wackjells          1          0    2            0    1       0       0      2   
+bradso             0          1    0            0    0       0       0      0   
+kathryn lewis      0          0    0            0    1       0       1      0   
+Lily Hovart        0          0    0            0    0       2       0      0   
+mattheweg          1          0    0            1    0       0       0      0   
+veronica           0          1    0            1    0       0       1      0   
+wackjells          1          0    2            0    1       0       0      2   
+Total              4          4    4            4    4       4       4      4   
+
+               scenes  seen  sense  student  better  remake  plot  christmas  \
+bradso              1     1      1        0       1       0     1          0   
+kathryn lewis       0     0      0        0       0       0     1          0   
+Lily Hovart         1     0      0        0       0       0     0          0   
+mattheweg           0     0      0        0       0       0     0          1   
+veronica            0     0      0        0       0       2     1          1   
+wackjells           0     1      1        2       1       0     0          1   
+bradso              1     1      1        0       1       0     1          0   
+kathryn lewis       0     0      0        0       0       0     1          0   
+Lily Hovart         1     0      0        0       0       0     0          0   
+mattheweg           0     0      0        0       0       0     0          1   
+veronica            0     0      0        0       0       2     1          1   
+wackjells           0     1      1        2       1       0     0          1   
+Total               4     4      4        4       4       4     6          6   
+
+               thor  actually  characters  weird  movies  vanessa  like  \
+bradso            0         0           2      0       0        0     0   
+kathryn lewis     0         1           0      0       0        1     1   
+Lily Hovart       0         1           0      2       0        0     1   
+mattheweg         0         0           0      1       3        0     2   
+veronica          3         0           1      0       0        0     0   
+wackjells         0         1           0      0       0        3     1   
+bradso            0         0           2      0       0        0     0   
+kathryn lewis     0         1           0      0       0        1     1   
+Lily Hovart       0         1           0      2       0        0     1   
+mattheweg         0         0           0      1       3        0     2   
+veronica          3         0           1      0       0        0     0   
+wackjells         0         1           0      0       0        3     1   
+Total             6         6           6      6       6        8    10   
+
+               hudgens  bad  movie  just  Total  
+bradso               0    0      1     0     36  
+kathryn lewis        1    0      0     3     40  
+Lily Hovart          0    4      2     5     40  
+mattheweg            1    1      0     3     67  
+veronica             0    0      2     0     33  
+wackjells            3    1      5     1    106  
+bradso               0    0      1     0     36  
+kathryn lewis        1    0      0     3     40  
+Lily Hovart          0    4      2     5     40  
+mattheweg            1    1      0     3     67  
+veronica             0    0      2     0     33  
+wackjells            3    1      5     1    106  
+Total               10   12     20    24    644  
